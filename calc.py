@@ -1,3 +1,5 @@
+# Perfome simple arithematic function
+# '1 + 2' -> 3, or '1 - 2' -> -1
 def compute(expression):
     values = expression.split(' ')
     num0 = int(values[0])
